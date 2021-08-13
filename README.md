@@ -40,4 +40,4 @@ Using the credit card credit dataset from LendingClub, a peer-to-peer lending se
  - **Recall:** Recall is the ability of the classifier to find all the positive samples. It is 92% for the high risk and 94% for the low risk. A high recall is indicative of a small number of false negatives.
 
 ## Summary
-To summarize, the first four models have very bad results where the accuracu scores, precision, and recalls are very low. However, the scores are very high in the last two models (Balanced Random Forest Classifier & Easy Ensemble AdaBoost Classifier) which makes it more reasonable for us to use them. 
+To summarize, the first four models have very bad results where the accuracy scores, precision, and recalls are very low. However, the scores are very high in the last two models (Balanced Random Forest Classifier & Easy Ensemble AdaBoost Classifier) which makes it more reasonable for us to use them. 
